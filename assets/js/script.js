@@ -1,0 +1,1 @@
+// .game-area , .controls-area , .question-area , .score-area
